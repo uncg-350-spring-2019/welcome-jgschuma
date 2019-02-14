@@ -1,2 +1,2 @@
 I tried to embed an image.
-![Image of Octocat](octocat.png)
+![Image of Octocat](/octocat.png)
